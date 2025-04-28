@@ -98,6 +98,8 @@ Contributions are welcome! Feel free to submit pull requests or create issues fo
 
 # 🙏 感谢
 [ourongxing](https://github.com/ourongxing/newsnow/)
+本项目由VTEXS的[开源项目免费VPS计划]提供算力支持。
+感谢VTEXS对开源社区的支持。
 
  # 
 <center>
